@@ -1,0 +1,10 @@
+<resources xmlns:android="http://schemas.android.com/tools">
+    <string name="app_name">Twitter_Search_Demo</string>
+    <string name="intro">Enter your Twitter search term</string>
+    <string name="hint">Search Term</string>
+    <string name="search_label">Search</string>
+    <string name="placeholder">---</string>
+    <string name="CONSUMER_KEY" android:name="com.twitter.sdk.android.CONSUMER_KEY">mgzdGoMyW2Db6StQc9cvVcoSK</string>
+    <string name="CONSUMER_SECRET" android:name="com.twitter.sdk.android.CONSUMER_SECRET">1ms8YL3YO2Gi1U2r1UdAzcnlBWTWLlgLuWhv67NDexZeesWwxo</string>
+    <string name="title_activity_embedded_tweet">activity_embedded_tweet</string>
+</resources>
