@@ -274,7 +274,7 @@ private TweetView tweetView;
         }
 
         private void ButtonOnClick(){
-            TwitterRestClient twitterRestClient;
+
 
 
         }
